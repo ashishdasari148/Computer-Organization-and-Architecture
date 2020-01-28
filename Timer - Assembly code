@@ -1,4 +1,4 @@
-
+;Assembly code to count down from 60 to 0 on 7-Segment Display (8085 kit with 8255 peripheral controller)
 ;<Program title>
 
 jmp start
